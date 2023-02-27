@@ -1,0 +1,67 @@
+Gtk-Message: 13:44:17.923: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:17.923: Failed to load module "window-decorations-gtk-module"
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session: No SSH authentication agent found
+gpg-agent: a gpg-agent is already running - not starting a new one
+Gtk-Message: 13:44:18.210: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:18.210: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:18.489: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:18.490: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:18.655: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:18.655: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:18.748: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:18.749: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:18.859: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:18.859: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:19.153: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:19.153: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:19.261: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:19.262: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:19.289: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:19.289: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:19.310: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:19.311: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:19.333: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:19.333: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:19.345: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:19.346: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:19.357: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:19.357: Failed to load module "window-decorations-gtk-module"
+xfce4-notifyd-Message: 13:44:19.359: Your sqlite library does not support OFFSET/LIMIT with DELETE; falling back to less-efficient deletion method
+Gtk-Message: 13:44:19.462: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:19.462: Failed to load module "window-decorations-gtk-module"
+
+(xfce4-power-manager:576): xfce4-power-manager-WARNING **: 13:44:19.650: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:576): WARNING **: 13:44:19.668: No outputs have backlight property
+
+(xfce4-power-manager:576): xfce4-power-manager-WARNING **: 13:44:19.684: It seems the kernel brightness switch handling value was not restored properly on exit last time, xfce4-power-manager will try to restore it this time.
+xfce4-power-manager-Message: 13:44:19.717: Set kernel brightness switch to 0
+
+(xfce4-power-manager:576): xfce4-power-manager-WARNING **: 13:44:19.727: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+(xfce4-power-manager:576): xfconf-WARNING **: 13:44:19.728: Failed to set property "xfce4-power-manager::/xfce4-power-manager/brightness-switch": Operation was cancelled
+xfce4-power-manager-Message: 13:44:19.761: Set kernel brightness switch to 0
+
+** (wrapper-2.0:570): WARNING **: 13:44:19.767: No outputs have backlight property
+Gtk-Message: 13:44:23.928: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:23.929: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:24.006: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:24.006: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:32.017: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:32.017: Failed to load module "window-decorations-gtk-module"
+thunar-volman: Unsupported USB device type "usb".
+Gtk-Message: 13:44:32.099: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:32.099: Failed to load module "window-decorations-gtk-module"
+thunar-volman: Unsupported USB device type "usb-storage".
+Gtk-Message: 13:44:33.120: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:33.121: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:33.203: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:33.203: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:44:33.286: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:44:33.287: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:45:03.346: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:45:03.346: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 13:45:03.423: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 13:45:03.424: Failed to load module "window-decorations-gtk-module"
